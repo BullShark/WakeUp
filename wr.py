@@ -8,6 +8,6 @@ nicklist = ''
 while weechat.infolist_next(infolist):
    nicklist += weechat.infolist_string(infolist, 'name')
    nicklist += ' '
-weechat.command(weechat.current_buffer(), nicklist)
+weechat.command(weechat.current_buffer(), nicklist) # should require the command somewhere (wr)
 weechat.infolist_free(infolist)
 
