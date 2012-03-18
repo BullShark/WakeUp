@@ -1,0 +1,9 @@
+--= Instructions =--
+
+1) Install weechat
+ * Linux: Use your package manager or build from source
+ * Windows: Install Linux or use cygwin
+2) Put wr.py under ~/.weechat/python/ 
+3) Join a channel
+4) In weechat, type without quotes "/python load wr.py"
+5) Profit
