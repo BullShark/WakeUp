@@ -10,12 +10,9 @@ nicklist = ''
 #   nicklist += ' '
 
 def wake_room(data, buffer, args):
-<<<<<<< HEAD
    while weechat.infolist_next(infolist):
       nicklist += weechat.infolist_string(infolist, 'name')
       nicklist += ' '
-=======
->>>>>>> 7dad59d4790b1060448d2d3d95132f3aa5ce327d
    return weechat.WEECHAT_RC_OK
 
 # hook prototype
