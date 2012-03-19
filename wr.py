@@ -11,3 +11,4 @@ while weechat.infolist_next(infolist):
 weechat.command(weechat.current_buffer(), nicklist) # should require the command somewhere (wr)
 weechat.infolist_free(infolist)
 
+
