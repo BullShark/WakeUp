@@ -37,8 +37,7 @@ def wake_room(data, buffer, args):
   infolist = weechat.infolist_get('irc_nick', '', server + ',' + channel)
   nicklist = ''
   while weechat.infolist_next(infolist):
-    nicklist += weechat.infolist_string(infolist, 'name')
-    nicklist += ' '
+    nicklist += weechat.infolist_string(infolist, 'name') + ' '
   weechat.command(weechat.current_buffer(), nicklist)
   weechat.infolist_free(infolist)
   return weechat.WEECHAT_RC_OK
