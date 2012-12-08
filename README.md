@@ -10,3 +10,6 @@
 5) Profit
 
 The /wr (or /wakeup) command is now implemented and working
+
+![WakeUp](http://i.imagebanana.com/img/xc33lbua/weechat0.3.8_090.png)
+![GREATSUCCESS](http://i.imagebanana.com/img/rxofck94/weechat0.3.8_091.png)
