@@ -10,7 +10,7 @@
 5. Command to use /wakeup or /wr
 6. Profit
 
-The /wr (or /wakeup) command is now implemented and working
+The /wr (or /wakeup) command is now implemented and working. 900 users? No problem!
 
 ![WakeUp](http://i.imagebanana.com/img/xc33lbua/weechat0.3.8_090.png)
 
