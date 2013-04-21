@@ -12,7 +12,7 @@
 
 The /wr (or /wakeup) command is now implemented and working. 900 users? No problem!
 
-![gtmanfred](http://expectusafterlun.ch/homo.png) 
+![gtmanfred](http://expectusafterlun.ch:8888/homo.png) 
 
 ![WakeUp](http://i.imagebanana.com/img/xc33lbua/weechat0.3.8_090.png)
 
