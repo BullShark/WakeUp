@@ -17,4 +17,4 @@ The /wr (or /wakeup) command is now implemented and working. 900 users? No probl
 ![WakeUp](http://i.imagebanana.com/img/xc33lbua/weechat0.3.8_090.png)
 
 
-![GREATSUCCESS](http://ompldr.org/vZ20zOA)
+![GREATSUCCESS](http://i.imgur.com/j0tv0BL.png)
