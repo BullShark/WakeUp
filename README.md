@@ -11,3 +11,5 @@
 6. Profit
 
 The /wr (or /wakeup) command is now implemented and working. 900 users? No problem!
+
+![GREATSUCCESS](http://i.imgur.com/j0tv0BL.png)
